@@ -21,8 +21,8 @@
 
 ### 📈 Estadísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DelioRodriguez&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DelioRodriguez&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luis02391&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis02391&layout=compact&theme=radical" />
 </div>
 
 ---
