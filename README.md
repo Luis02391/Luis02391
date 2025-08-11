@@ -28,7 +28,7 @@
 ---
 
 ### 📌 Repositorios Destacados
-- 🔗 [resQpet-front](https://github.com/Luis02391/resqpet-api) – Back-End con Java Spring Boot
+- 🔗 [resQpet-api](https://github.com/Luis02391/resqpet-api) – Back-End con Java Spring Boot
 - 🏠 [RealEstateApp](https://github.com/DelioRodriguez/RealEstateApp) – Sistema de bienes raíces en C#
 
 ---
