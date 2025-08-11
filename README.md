@@ -27,6 +27,12 @@
 
 ---
 
+### 📌 Repositorios Destacados
+- 🔗 [resQpet-front](https://github.com/Luis02391/resqpet-api) – Back-End con Java Spring Boot
+- 🏠 [RealEstateApp](https://github.com/DelioRodriguez/RealEstateApp) – Sistema de bienes raíces en C#
+
+---
+
 ## 📫 Cómo contactarme
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irodpez)
