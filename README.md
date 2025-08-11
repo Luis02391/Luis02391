@@ -20,7 +20,7 @@
 ---
 
 ## 📊 GitHub Stats
-![IvoLuis' GitHub stats](https://github-readme-stats.vercel.app/api?username=ivoluis&show_icons=true&theme=radical)
+![IvoLuis' GitHub stats](https://github-readme-stats.vercel.app/api?username=ivoluis&show_icons=true&theme=radical&token=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)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivoluis&layout=compact&theme=radical)
 
 ---
