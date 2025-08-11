@@ -20,8 +20,9 @@
 ---
 
 ## 📊 GitHub Stats
-![IvoLuis' GitHub stats](https://github-readme-stats.vercel.app/api?username=ivoluis&show_icons=true&theme=radical&token=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)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivoluis&layout=compact&theme=radical&token=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)
+![Stats](https://github-readme-stats.vercel.app/api?username=ivoluis&show_icons=true&theme=radical&custom_title=IvoLuis%27%20GitHub%20Stats&include_all_commits=true&count_private=true&hide=contribs&line_height=24&hide_rank=false)
+![Streak](https://streak-stats.demolab.com?user=ivoluis&theme=radical&date_format=j%20M%5B%20Y%5D&fire=FF4500&ring=FFB000&currStreakNum=FFB000&sideNums=FFB000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivoluis&layout=compact&theme=radical&langs_count=8&hide_progress=false)
 
 ---
 
