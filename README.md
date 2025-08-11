@@ -21,7 +21,6 @@
 
 ## 📊 GitHub Stats
 ![IvoLuis' GitHub stats](https://github-readme-stats.vercel.app/api?username=ivoluis&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=ivoluis&theme=radical&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivoluis&layout=compact&theme=radical)
 
 ---
