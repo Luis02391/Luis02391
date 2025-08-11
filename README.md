@@ -19,10 +19,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=radical&custom_title=IvoLuis%27%20GitHub%20Stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=compact&theme=radical&custom_title=Lenguajes%20más%20usados%20por%20IvoLuis)
+### 📈 Estadísticas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DelioRodriguez&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DelioRodriguez&layout=compact&theme=radical" />
+</div>
 
 ---
 
