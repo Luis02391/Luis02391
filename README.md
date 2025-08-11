@@ -20,9 +20,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ivoluis&show_icons=true&theme=radical&custom_title=IvoLuis%27%20GitHub%20Stats&include_all_commits=true&count_private=true&hide=contribs&line_height=24&hide_rank=false)
-![Streak](https://streak-stats.demolab.com?user=ivoluis&theme=radical&date_format=j%20M%5B%20Y%5D&fire=FF4500&ring=FFB000&currStreakNum=FFB000&sideNums=FFB000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivoluis&layout=compact&theme=radical&langs_count=8&hide_progress=false)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=radical&custom_title=IvoLuis%27%20GitHub%20Stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=compact&theme=radical&custom_title=Lenguajes%20más%20usados%20por%20IvoLuis)
 
 ---
 
